@@ -1,4 +1,3 @@
-# NYPD-Frisk
 
 ## NYPD- Stop, Question and Frisk: Using data to undersatnd the causes,motives and bias towards arrests? 
 
