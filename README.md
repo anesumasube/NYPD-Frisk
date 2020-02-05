@@ -18,7 +18,7 @@ Our goal is to use data provided by the New York City police department in every
     - [Models in Pipeline](notebooks/Models_in_Pipeline.ipynb)   
     - [Exploratory Data Analysis](https://github.com/smw150430/NYPD-Frisk/blob/master/notebooks/stephen.ipynb)
     - [Visualizations](https://github.com/smw150430/NYPD-Frisk/blob/master/notebooks/Visualizations.ipynb)
-- [Python Files]
+- [Python Files](https://github.com/smw150430/NYPD-Frisk/tree/master/python_files)
     - [Confusion Matrice](python_files/confusion_matrice.py)
     - [Data Cleaning](python_files/data_prep.py)   
     - [Models](python_files/models.py)   
